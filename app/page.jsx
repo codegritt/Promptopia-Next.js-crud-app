@@ -9,7 +9,8 @@ const Home = () => {
     <br className='max-mid:hidden'/>
     <span className='text-center orange_gradient'>AI powered prompts</span>
 </h1>
-<p className='desc text-center'>Promptlândia é uma ferramenta Open-Source para descobrir, criar e compartilhar prompts criativos para IAs.
+<p className='desc text-center'>Promptopia is an open source AI prompting tool for modern world
+to discover, create and share creative prompts
 </p>
 
 <Feed/>
